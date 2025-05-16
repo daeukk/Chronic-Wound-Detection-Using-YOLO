@@ -1,6 +1,6 @@
 # Chronic Wound Monitoring Using YOLO Models
 
-This project aims to detect and classify chronic wounds using YOLOv7 and YOLOv8, and compare the results
+This project aims to detect chronic wounds using YOLOv7 and YOLOv8, and compare the results
 
 Dataset used: AZH dataset
 
