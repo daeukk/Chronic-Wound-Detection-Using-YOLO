@@ -5,3 +5,5 @@ This repository contains:
 - YOLOv8 notebook (from repoB)
 
 ![Diagram](assets/fig1.png)
+
+![Diagram](assets/fig2.png)
