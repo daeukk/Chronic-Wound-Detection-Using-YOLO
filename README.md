@@ -1,4 +1,4 @@
-# Chronic Wound Monitoring Using YOLO Models
+# Chronic Wound Detection Using YOLO Models
 
 This project aims to detect chronic wounds using YOLOv7 and YOLOv8, and compare the results
 
